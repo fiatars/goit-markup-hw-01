@@ -1,4 +1,5 @@
 # goit-markup-hw-01
+<<<<<<< HEAD
 
 Make the HTML markup for the layout of homework page #1, without CSS styling. Link to homework page #1: https://www.figma.com/design/1ehrLBauvVFu4mVhxsHzyZ/Web-Studio--Version-2.1-?node-id=0-1&p=f&t=oJIG0LBUhIyOiy9F-0
 
@@ -51,3 +52,8 @@ Make the HTML markup for the layout of homework page #1, without CSS styling. Li
 «B15» Групи однотипних елементів зібрані у списки <ul>.
 
 «B16» Тег <address> використаний тільки у футері.
+=======
+Make the HTML markup for the layout of homework page #1, without CSS styling.
+Link to homework page #1: https://www.figma.com/design/1ehrLBauvVFu4mVhxsHzyZ/Web-Studio--Version-2.1-?node-id=0-1&p=f&t=oJIG0LBUhIyOiy9F-0
+Link on GitHub Pages:
+>>>>>>> 36638b5473b0ae86d49c76ddca104033e69c844e
